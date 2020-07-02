@@ -4,4 +4,7 @@ if(food=="junk"):
 	print("Burger")
 	print("Pizza")
 else:
-	print("Salad")
+	drink=input("Wanna drink?")
+
+	if(drink=="yes"):
+		print("Water")
