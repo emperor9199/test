@@ -1,1 +1,2 @@
 print("Burger")
+print("Pizza")
