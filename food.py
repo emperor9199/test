@@ -10,3 +10,4 @@ else:
 
 	if(drink=="yes"):
 		print("Water")
+xyz
